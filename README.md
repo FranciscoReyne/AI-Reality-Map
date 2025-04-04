@@ -1,6 +1,6 @@
 # AI Reality Map
 
-This project is an AI Dimensional Analysis.
+This project is an ChatGPT LLM AI Dimensional Analysis.
 
 ---
 
