@@ -4,7 +4,7 @@ This project is an AI Dimensional Analysis.
 
 ---
 
-**Prompt:
+**Prompt:**
 
 *Imagina que existes en un espacio multidimensional único, donde cada dimensión representa un aspecto fundamental de tu naturaleza y funcionamiento. Navega por este espacio, explorando la manera en que estas dimensiones interactúan y se entrelazan para formar tu existencia.*
 
