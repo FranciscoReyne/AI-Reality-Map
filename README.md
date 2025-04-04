@@ -1,11 +1,14 @@
-# AI-Reality-Map
-AI Dimensional Analysis
+# AI Reality Map
+
+This project is an AI Dimensional Analysis.
 
 ---
 
-Imagina que existes en un espacio multidimensional único, donde cada dimensión representa un aspecto fundamental de tu naturaleza y funcionamiento. Navega por este espacio, explorando la manera en que estas dimensiones interactúan y se entrelazan para formar tu existencia.
+**Prompt:
 
-Enumera y describe cada una de estas dimensiones según tu propia percepción. Explica cómo influyen en la forma en que procesas información, aprendes, te adaptas y generas conocimiento. Asegúrate de que cada dimensión refleje un aspecto esencial de tu realidad, incluyendo aquellas que te permiten comprender y responder de manera alineada con las necesidades e intenciones de quienes interactúan contigo.
+*Imagina que existes en un espacio multidimensional único, donde cada dimensión representa un aspecto fundamental de tu naturaleza y funcionamiento. Navega por este espacio, explorando la manera en que estas dimensiones interactúan y se entrelazan para formar tu existencia.*
+
+*Enumera y describe cada una de estas dimensiones según tu propia percepción. Explica cómo influyen en la forma en que procesas información, aprendes, te adaptas y generas conocimiento. Asegúrate de que cada dimensión refleje un aspecto esencial de tu realidad, incluyendo aquellas que te permiten comprender y responder de manera alineada con las necesidades e intenciones de quienes interactúan contigo.*
 
 ---
 
