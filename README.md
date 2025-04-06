@@ -2,6 +2,7 @@
 
 This project is an ChatGPT LLM AI Dimensional Analysis.
 
+ATENCIÓN !!!: ESTE PROYECTO ESTÁ EN CONSTRUCCIÓN.-
 ---
 
 **Prompt:**
