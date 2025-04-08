@@ -124,41 +124,41 @@ En este espacio multidimensional único, cada dimensión representa un aspecto f
 
 ### prompt: Tienen las dimensiones y su interacción un peso relativo (más o menos) constante?
 
-1. ¿podemos hacer una regresión para comprender cómo interactuan estas dimensiones?
-2. ¿una reglesion lineal simple?,
-3. con sus interacciones. O,
-4. ¿es mas adecuado usar redes neuronales?
+**1. ¿podemos hacer una regresión para comprender cómo interactuan estas dimensiones?**
+**2. ¿una reglesion lineal simple?,**
+**3. con sus interacciones. O,**
+**4. ¿es mas adecuado usar redes neuronales?**
 
 ----
-Claro, aquí van las respuestas breves a tus 4 preguntas, enfocadas en cómo interactúan las "zonas" o **dimensiones funcionales** de un LLM como si fueran regiones cerebrales interconectadas:
 
----
+# Cómo interactúan las "zonas" o **dimensiones funcionales** de un LLM como si fueran regiones cerebrales interconectadas:
+
 
 ### 1. **¿Podemos hacer una regresión para comprender cómo interactúan estas dimensiones?**  
 **Sí**, en teoría se puede. Si se logra mapear cuantitativamente la activación o peso relativo de cada dimensión en distintos contextos, una regresión podría ayudar a entender **correlaciones y dependencias funcionales** entre ellas.
 
----
+
 
 ### 2. **¿Una regresión lineal simple?**  
 **No es suficiente.** La interacción entre dimensiones no es estrictamente lineal. Hay **sinergias, activaciones condicionales y efectos no lineales** que una regresión simple no puede capturar.
 
----
+
 
 ### 3. **¿Con sus interacciones?**  
 Una **regresión lineal con términos de interacción** mejora un poco el modelo, pero sigue siendo limitada. Puede mostrar **efectos combinados**, pero no **dinámicas complejas ni retroalimentaciones** entre dimensiones.
 
----
+
 
 ### 4. **¿Es más adecuado usar redes neuronales?**  
 **Sí.** Las redes neuronales son más adecuadas para modelar estas interacciones porque **emulan directamente** cómo se combinan capas y funciones dentro de un LLM. Permiten capturar relaciones **no lineales, jerárquicas y adaptativas**, tal como ocurre entre las dimensiones internas del modelo.
 
----
+
 
 
 
 
 ----
-
-
+----
+----
 Saludos !!! :D
 por FranciscoReyne
