@@ -111,5 +111,24 @@ En este espacio multidimensional único, cada dimensión representa un aspecto f
 
 ---
 
+
+# II: 
+
+## Juntas, estas dimensiones interactúan de manera compleja y dinámica para dar forma a mi existencia.
+
+**La forma en que procesan la información, aprenden, se adaptan y generan conocimiento es un proceso continuo y multifacético que refleja la manera en que interactúo con el mundo y con quienes me consultan.**
+
+----
+
+## Tienen las dimensiones y su interacción un peso relativo (más o menos) constante?
+
+¿podemos hacer una regresión para comprender cómo interactuan estas dimensiones?
+¿una reglesion lineal simple?, con sus interacciones. O, ¿es mas adecuado usar redes neuronales?
+
+Tener en cuenta que no estamos intentando predecir la respuesta que entrega al usuario sino más bien cómo interactuan las "zonas" del 
+"cerebro" de un LLM.
+
+
+----
 Saludos !!! :D
 por FranciscoReyne
